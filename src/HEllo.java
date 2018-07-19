@@ -11,6 +11,12 @@ public class HEllo {
         System.out.println(" hlo rafi");
         System.out.println(" hlo rafi");
         System.out.println(" hlo rafi");
+         System.out.println(" hlo chita");
+           System.out.println(" hlo chita");
+           System.out.println(" hlo chita");
+           System.out.println(" hlo chita");
+           System.out.println(" hlo chita");
+           System.out.println(" hlo chita");
 
     }
 }
